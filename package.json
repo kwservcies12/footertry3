@@ -1,0 +1,25 @@
+{
+  "name": "footertry5",
+  "version": "0.1.0",
+  "description": "footer module generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwservcies12/footertry5.git"
+  },
+  "keywords": [
+    "footerfive"
+  ],
+  "author": "Kane Whiteside <k.w.services12@gmail.com> (http://www.kanewhiteside.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwservcies12/footertry5/issues"
+  },
+  "homepage": "https://github.com/kwservcies12/footertry5#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
